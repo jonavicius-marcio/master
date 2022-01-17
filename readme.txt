@@ -1,0 +1,1 @@
+The date_quote_complete has data from 2014 onwards and date_quote 2015 onwards
